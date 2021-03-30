@@ -56,3 +56,13 @@ font-size:20px;
 .link:hover{
 background-color: cyan;
 }
+html{
+scroll-behavior: smooth;
+}
+a{
+text-decoration: none;
+
+}
+.article:hover{
+color: azure;
+}
